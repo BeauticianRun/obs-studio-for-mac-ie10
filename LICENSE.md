@@ -1,4 +1,4 @@
-# 
+# OBS Studio for macOS advanced Addon: glitch-effect & 4K-export offers the most advanced OBS Studio for macOS addon, with glitch-effect and 4K-export. Ideal for professional video
 
 
 
